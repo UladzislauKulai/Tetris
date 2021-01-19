@@ -1,0 +1,10 @@
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\bin\Debug\Tetris.exe
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\bin\Debug\Tetris.pdb
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.exe
+C:\Users\vladk\source\repos\Tetris-c-sharp\oo\Tetris\obj\Debug\Tetris.pdb
